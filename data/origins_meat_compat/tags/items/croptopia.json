@@ -1,0 +1,129 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "croptopia:beef_jerky",
+            "required": false
+        },
+        {
+            "id": "croptopia:pork_jerky",
+            "required": false
+        },
+        {
+            "id": "croptopia:pork_and_beans",
+            "required": false
+        },
+        {
+            "id": "croptopia:blt",
+            "required": false
+        },
+        {
+            "id": "croptopia:cheeseburger",
+            "required": false
+        },
+        {
+            "id": "croptopia:hamburger",
+            "required": false
+        },
+        {
+            "id": "croptopia:supreme_pizza",
+            "required": false
+        },
+        {
+            "id": "croptopia:pineapple_pepperoni_pizza",
+            "required": false
+        },
+        {
+            "id": "croptopia:lemon_chicken",
+            "required": false
+        },
+        {
+            "id": "croptopia:fried_chicken",
+            "required": false
+        },
+        {
+            "id": "croptopia:chicken_and_noodles",
+            "required": false
+        },
+        {
+            "id": "croptopia:chicken_and_dumplings",
+            "required": false
+        },
+        {
+            "id": "croptopia:chicken_and_rice",
+            "required": false
+        },
+        {
+            "id": "croptopia:taco",
+            "required": false
+        },
+        {
+            "id": "croptopia:sushi",
+            "required": false
+        },
+        {
+            "id": "croptopia:cashew_chicken",
+            "required": false
+        },
+        {
+            "id": "croptopia:carnitas",
+            "required": false
+        },
+        {
+            "id": "croptopia:fajitas",
+            "required": false
+        },
+        {
+            "id": "croptopia:enchilada",
+            "required": false
+        },
+        {
+            "id": "croptopia:tamales",
+            "required": false
+        },
+        {
+            "id": "croptopia:stuffed_poblanos",
+            "required": false
+        },
+        {
+            "id": "croptopia:quesadilla",
+            "required": false
+        },
+        {
+            "id": "croptopia:shepherds_pie",
+            "required": false
+        },
+        {
+            "id": "croptopia:beef_wellington",
+            "required": false
+        },
+        {
+            "id": "croptopia:fish_and_chips",
+            "required": false
+        },
+        {
+            "id": "croptopia:cornish_pasty",
+            "required": false
+        },
+        {
+            "id": "croptopia:beef_stew",
+            "required": false
+        },
+        {
+            "id": "croptopia:beef_stir_fry",
+            "required": false
+        },
+        {
+            "id": "croptopia:cooked_bacon",
+            "required": false
+        },
+        {
+            "id": "croptopia:bacon",
+            "required": false
+        },
+        {
+            "id": "croptopia:potato_soup",
+            "required": false
+        }
+    ]
+}

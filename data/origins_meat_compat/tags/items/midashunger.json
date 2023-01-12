@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "midashunger:cooked_golden_beef",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_chicken",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_cod",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_mutton",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_porkchop",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_rabbit",
+			"required": false
+		},
+		{
+			"id": "midashunger:cooked_golden_salmon",
+			"required": false
+		},
+        {
+            "id": "midashunger:golden_turtle_egg",
+            "required": false
+        }
+	]
+}

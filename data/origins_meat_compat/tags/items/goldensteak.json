@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "goldensteak:enchanted_golden_steak",
+			"required": false
+		},
+		{
+			"id": "goldensteak:golden_steak",
+			"required": false
+		}
+	]
+}

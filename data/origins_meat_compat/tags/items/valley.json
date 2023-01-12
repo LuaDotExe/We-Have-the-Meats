@@ -1,0 +1,197 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "valley:bacon_and_scrambled_eggs",
+            "required": false
+        },
+        {
+            "id": "valley:bear_jerky",
+            "required": false
+        },
+        {
+            "id": "valley:bear_stir_fry",
+            "required": false
+        },
+        {
+            "id": "valley:beef_and_potato_stew",
+            "required": false
+        },
+        {
+            "id": "valley:chicken_curry",
+            "required": false
+        },
+        {
+            "id": "valley:clam",
+            "required": false
+        },
+        {
+            "id": "valley:clam_chowder",
+            "required": false
+        },
+        {
+            "id": "valley:clownfish_roll_alt",
+            "required": false
+        },
+        {
+            "id": "valley:bacon_cooked",
+            "required": false
+        },
+        {
+            "id": "valley:egg_bowl_cooked",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_tenderloin",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_tropical_fish",
+            "required": false
+        },
+        {
+            "id": "valley:crab_red",
+            "required": false
+        },
+        {
+            "id": "valley:crab_red_cooked",
+            "required": false
+        },
+        {
+            "id": "valley:crab_roll",
+            "required": false
+        },
+        {
+            "id": "valley:dried_salmon",
+            "required": false
+        },
+        {
+            "id": "valley:dried_cod",
+            "required": false
+        },
+        {
+            "id": "valley:dried_sucker",
+            "required": false
+        },
+        {
+            "id": "valley:dried_tropical_fish",
+            "required": false
+        },
+        {
+            "id": "valley:drumstick",
+            "required": false
+        },
+        {
+            "id": "valley:dumpling",
+            "required": false
+        },
+        {
+            "id": "valley:fire_eel",
+            "required": false
+        },
+        {
+            "id": "valley:fire_eel_cooked",
+            "required": false
+        },
+        {
+            "id": "valley:fire_eel_dried",
+            "required": false
+        },
+        {
+            "id": "valley:fire_eel_roll",
+            "required": false
+        },
+        {
+            "id": "valley:grilled_sucker",
+            "required": false
+        },
+        {
+            "id": "valley:grub_alt",
+            "required": false
+        },
+        {
+            "id": "valley:lamb_biryani",
+            "required": false
+        },
+        {
+            "id": "valley:lionfish",
+            "required": false
+        },
+        {
+            "id": "valley:monster_jerky",
+            "required": false
+        },
+        {
+            "id": "valley:octo_roll",
+            "required": false
+        },
+        {
+            "id": "valley:octopus",
+            "required": false
+        },
+        {
+            "id": "valley:perch",
+            "required": false
+        },
+        {
+            "id": "valley:perch_roll",
+            "required": false
+        },
+        {
+            "id": "valley:pork_stir_fry",
+            "required": false
+        },
+        {
+            "id": "valley:rabbit_bigo",
+            "required": false
+        },
+        {
+            "id": "valley:bacon_raw",
+            "required": false
+        },
+        {
+            "id": "valley:egg_bowl_raw",
+            "required": false
+        },
+        {
+            "id": "valley:raw_tenderloin",
+            "required": false
+        },
+        {
+            "id": "valley:salmon_roll",
+            "required": false
+        },
+        {
+            "id": "valley:sardine",
+            "required": false
+        },
+        {
+            "id": "valley:sardine_cooked",
+            "required": false
+        },
+        {
+            "id": "valley:sardine_soup",
+            "required": false
+        },
+        {
+            "id": "valley:squid_roll",
+            "required": false
+        },
+        {
+            "id": "valley:squid_sucker",
+            "required": false
+        },
+        {
+            "id": "valley:steamed_cod",
+            "required": false
+        },
+        {
+            "id": "valley:worm",
+            "required": false
+        },
+        {
+            "id": "valley:worm_bowl",
+            "required": false
+        }
+    ]
+}

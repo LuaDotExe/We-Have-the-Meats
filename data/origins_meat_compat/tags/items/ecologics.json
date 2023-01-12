@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "ecologics:crab_meat",
+            "required": false
+        },
+        {
+            "id": "ecologics:tropical_stew",
+            "required": false
+        }
+    ]
+}

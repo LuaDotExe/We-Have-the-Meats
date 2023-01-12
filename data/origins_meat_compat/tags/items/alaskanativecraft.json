@@ -1,0 +1,41 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"id": "alaskanativecraft:fish_strip",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:dry_fish",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:seal",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:cooked_seal",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:dry_seal",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:ptarmigan",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:cooked_ptarmigan",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:venison",
+			"required": false
+		},
+		{
+			"id": "alaskanativecraft:cooked_venison",
+			"required": false
+		}
+	]
+}

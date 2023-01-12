@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "promenade:duck",
+            "required": false
+        },
+        {
+            "id": "promenade:cooked_duck",
+            "required": false
+        }
+    ]
+}

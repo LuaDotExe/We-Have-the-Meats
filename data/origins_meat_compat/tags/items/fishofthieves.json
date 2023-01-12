@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#fishofthieves:thieves_fish",
+            "required": false
+        },
+        {
+            "id": "#fishofthieves:cooked_thieves_fish",
+            "required": false
+        },
+        {
+            "id": "#fishofthieves:worms",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:fishes",
+		"#origins_meat_compat:alaskanativecraft",
+		"#origins_meat_compat:anthropophagy",
+		"#origins_meat_compat:betteranimalsplus",
+		"#origins_meat_compat:c",
+		"#origins_meat_compat:croptopia",
+		"#origins_meat_compat:ecologics",
+		"#origins_meat_compat:farmersdelight",
+		"#origins_meat_compat:fishofthieves",
+		"#origins_meat_compat:goldensteak",
+		"#origins_meat_compat:midashunger",
+		"#origins_meat_compat:promenade",
+		"#origins_meat_compat:valley",
+		"#origins_meat_compat:wildlife"
+	]
+}
