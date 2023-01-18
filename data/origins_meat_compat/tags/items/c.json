@@ -8,6 +8,26 @@
         {
             "id": "#c:raw_meat",
             "required": false
+        },
+        {
+            "id": "#c:raw_squid",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_squid",
+            "required": false
+        },
+        {
+            "id": "#c:calamari",
+            "required": false
+        },
+        {
+            "id": "#c:raw_calamari",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_calamari",
+            "required": false
         }
     ]
 }

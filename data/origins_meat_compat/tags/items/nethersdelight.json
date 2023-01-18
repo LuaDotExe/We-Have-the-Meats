@@ -1,0 +1,49 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#nethersdelight:raw_strider",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:hoglin_loin",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:hoglin_sirloin",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:hoglin_ear",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:warped_moldy_meat",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:grilled_strider",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:strider_moss_stew",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_snout",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_ham",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:plate_of_stuffed_hoglin_roast",
+            "required": false
+        },
+        {
+            "id": "nethersdelight:nether_skewer",
+            "required": false
+        }
+    ]
+}

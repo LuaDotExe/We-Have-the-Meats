@@ -1,0 +1,57 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "culturaldelights:beef_burrito",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:mutton_sandwich",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:chicken_taco",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:spicy_curry",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:pork_wrap",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:fish_taco",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:egg_roll",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:chicken_roll",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:chicken_roll_slice",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:pufferfish_roll",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:tropical_roll",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:rice_ball",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:calamari_roll",
+            "required": false
+        }
+    ]
+}
