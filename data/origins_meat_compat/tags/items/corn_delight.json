@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "corn_delight:taco",
+            "required": false
+        },
+        {
+            "id": "corn_delight:nachos_block",
+            "required": false
+        },
+        {
+            "id": "corn_delight:nachos_bowl",
+            "required": false
+        },
+        {
+            "id": "corn_delight:corn_dog",
+            "required": false
+        },
+        {
+            "id": "corn_delight:classic_corn_dog",
+            "required": false
+        },
+        {
+            "id": "corn_delight:corn_soup",
+            "required": false
+        }
+    ]
+}

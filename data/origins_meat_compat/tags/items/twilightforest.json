@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "twilightforest:raw_meef",
+            "required": false
+        },
+        {
+            "id": "twilightforest:cooked_meef",
+            "required": false
+        },
+        {
+            "id": "twilightforest:raw_venison",
+            "required": false
+        },
+        {
+            "id": "twilightforest:cooked_venison",
+            "required": false
+        },
+        {
+            "id": "twilightforest:hydra_chop",
+            "required": false
+        },
+        {
+            "id": "twilightforest:meef_stroganoff",
+            "required": false
+        }
+    ]
+}

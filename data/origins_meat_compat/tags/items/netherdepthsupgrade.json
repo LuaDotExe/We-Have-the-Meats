@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "netherdepthsupgrade:lava_pufferfish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:obsidianfish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:searing_cod",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:bonefish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:wither_bonefish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:blazefish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:magmacubefish",
+            "required": false
+        },
+        {
+            "id": "netherdepthsupgrade:glowdine",
+            "required": false
+        }
+    ]
+}

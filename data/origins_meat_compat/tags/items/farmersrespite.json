@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "farmersrespite:black_cod",
+            "required": false
+        },
+        {
+            "id": "farmersrespite:tea_curry",
+            "required": false
+        }
+    ]
+}

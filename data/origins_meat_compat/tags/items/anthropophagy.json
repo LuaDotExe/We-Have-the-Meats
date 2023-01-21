@@ -2,6 +2,10 @@
     "replace": false,
     "values": [
 		{
+			"id": "#anthropophagy:flesh",
+			"required": false
+		},
+		{
 			"id": "anthropophagy:cooked_flesh",
 			"required": false
 		},

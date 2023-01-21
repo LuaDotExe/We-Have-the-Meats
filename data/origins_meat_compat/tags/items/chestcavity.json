@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#chestcavity:burnable_meat",
+            "required": false
+        },
+        {
+            "id": "#chestcavity:rotten_food",
+            "required": false
+        },
+        {
+            "id": "#chestcavity:salvageable",
+            "required": false
+        },
+        {
+            "id": "#chestcavity:small_animal_organs",
+            "required": false
+        }
+    ]
+}
