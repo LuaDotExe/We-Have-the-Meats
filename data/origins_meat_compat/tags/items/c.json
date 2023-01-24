@@ -28,6 +28,14 @@
         {
             "id": "#c:cooked_calamari",
             "required": false
+        },
+        {
+            "id": "#c:raw_fishes",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_fishes",
+            "required": false
         }
     ]
 }

@@ -164,6 +164,10 @@
         {
             "id": "farmersdelight:stuffed_potato",
             "required": false
+        },
+        {
+            "id": "farmersdelight:squid_ink_pasta",
+            "required": false
         }
     ]
 }
