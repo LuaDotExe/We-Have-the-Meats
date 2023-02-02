@@ -124,6 +124,118 @@
         {
             "id": "croptopia:potato_soup",
             "required": false
+        },
+        {
+            "id": "croptopia:pepperoni",
+            "required": false
+        },
+        {
+            "id": "croptopia:big_breakfast",
+            "required": false
+        },
+        {
+            "id": "croptopia:glowing_calamari",
+            "required": false
+        },
+        {
+            "id": "croptopia:cooked_anchovy",
+            "required": false
+        },
+        {
+            "id": "croptopia:cooked_shrimp",
+            "required": false
+        },
+        {
+            "id": "croptopia:cooked_tuna",
+            "required": false
+        },
+        {
+            "id": "croptopia:pepperoni",
+            "required": false
+        },
+        {
+            "id": "croptopia:scrambled_eggs",
+            "required": false
+        },
+        {
+            "id": "croptopia:ham_sandwich",
+            "required": false
+        },
+        {
+            "id": "croptopia:tuna_sandwich",
+            "required": false
+        },
+        {
+            "id": "croptopia:egg_roll",
+            "required": false
+        },
+        {
+            "id": "croptopia:cabbage_roll",
+            "required": false
+        },
+        {
+            "id": "croptopia:goulash",
+            "required": false
+        },
+        {
+            "id": "croptopia:steamed_crab",
+            "required": false
+        },
+        {
+            "id": "croptopia:deep_fried_shrimp",
+            "required": false
+        },
+        {
+            "id": "croptopia:tuna_roll",
+            "required": false
+        },
+        {
+            "id": "croptopia:fried_calamari",
+            "required": false
+        },
+        {
+            "id": "croptopia:crab_legs",
+            "required": false
+        },
+        {
+            "id": "croptopia:steamed_clams",
+            "required": false
+        },
+        {
+            "id": "croptopia:grilled_oysters",
+            "required": false
+        },
+        {
+            "id": "croptopia:anchovy_pizza",
+            "required": false
+        },
+        {
+            "id": "croptopia:croque_madame",
+            "required": false
+        },
+        {
+            "id": "croptopia:croque_monsieur",
+            "required": false
+        },
+        {
+            "id": "croptopia:frog_legs",
+            "required": false
+        },
+        {
+            "id": "croptopia:fried_frog_legs",
+            "required": false
+        },
+        {
+            "id": "croptopia:ground_pork",
+            "required": false
+        },
+        {
+            "id": "croptopia:sausage",
+            "required": false
+        },
+        {
+            "id": "croptopia:the_big_breakfast",
+            "required": false
         }
     ]
 }

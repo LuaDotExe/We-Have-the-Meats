@@ -1,0 +1,69 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "foodplusid:beef_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:pork_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:chicken_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fish_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:salmon_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:mutton_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:rabbit_salad",
+            "required": false
+        },
+        {
+            "id": "foodplusid:beef_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:pork_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:chicken_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:fish_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:salmon_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:mutton_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:rabbit_sandwich",
+            "required": false
+        },
+        {
+            "id": "foodplusid:meat_pie",
+            "required": false
+        },
+        {
+            "id": "foodplusid:awful_stew",
+            "required": false
+        }
+    ]
+}

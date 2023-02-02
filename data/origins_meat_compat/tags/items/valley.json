@@ -146,6 +146,10 @@
             "required": false
         },
         {
+            "id": "valley:raw_bacon",
+            "required": false
+        },
+        {
             "id": "valley:bacon_raw",
             "required": false
         },
@@ -191,6 +195,190 @@
         },
         {
             "id": "valley:worm_bowl",
+            "required": false
+        },
+        {
+            "id": "valley:giant_scallop",
+            "required": false
+        },
+        {
+            "id": "valley:bear_stew",
+            "required": false
+        },
+        {
+            "id": "valley:beef_stew",
+            "required": false
+        },
+        {
+            "id": "valley:bone_broth",
+            "required": false
+        },
+        {
+            "id": "valley:chicken_soup",
+            "required": false
+        },
+        {
+            "id": "valley:glow_soup",
+            "required": false
+        },
+        {
+            "id": "valley:mandrake_soup",
+            "required": false
+        },
+        {
+            "id": "valley:worm_soup",
+            "required": false
+        },
+        {
+            "id": "valley:tropical_fish_salad",
+            "required": false
+        },
+        {
+            "id": "valley:bacon_breakfast",
+            "required": false
+        },
+        {
+            "id": "valley:bacon_and_eggs",
+            "required": false
+        },
+        {
+            "id": "valley:full_breakfast",
+            "required": false
+        },
+        {
+            "id": "valley:large_pancake_breakfast",
+            "required": false
+        },
+        {
+            "id": "valley:pancake_breakfast",
+            "required": false
+        },
+        {
+            "id": "valley:cod_chowder",
+            "required": false
+        },
+        {
+            "id": "valley:creamy_chowder",
+            "required": false
+        },
+        {
+            "id": "valley:fish_platter",
+            "required": false
+        },
+        {
+            "id": "valley:grub",
+            "required": false
+        },
+        {
+            "id": "valley:poke_bowl",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_dungeness_crab",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_fire_eel",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_lobster",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_perch",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_pridefin",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_red_porgy",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_sardine",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_sea_urchin",
+            "required": false
+        },
+        {
+            "id": "valley:cooked_stonespinner_minnow",
+            "required": false
+        },
+        {
+            "id": "valley:dried_fire_eel",
+            "required": false
+        },
+        {
+            "id": "valley:octorok_roll",
+            "required": false
+        },
+        {
+            "id": "valley:pridefin_roll",
+            "required": false
+        },
+        {
+            "id": "valley:rainbow_roll",
+            "required": false
+        },
+        {
+            "id": "valley:tropical_roll",
+            "required": false
+        },
+        {
+            "id": "valley:abyss_watcher_bento_box",
+            "required": false
+        },
+        {
+            "id": "valley:ghostfin_bento_box",
+            "required": false
+        },
+        {
+            "id": "valley:salmon_roll_bento_box",
+            "required": false
+        },
+        {
+            "id": "valley:squid_bento_box",
+            "required": false
+        },
+        {
+            "id": "valley:tropical_fish_bento_box",
+            "required": false
+        },
+        {
+            "id": "valley:sea_urchin_soup",
+            "required": false
+        },
+        {
+            "id": "valley:blt",
+            "required": false
+        },
+        {
+            "id": "valley:mutton_sandwich",
+            "required": false
+        },
+        {
+            "id": "valley:pork_sandwich",
+            "required": false
+        },
+        {
+            "id": "valley:steak_sandwich",
+            "required": false
+        },
+        {
+            "id": "valley:tenderloin_sandwich",
+            "required": false
+        },
+        {
+            "id": "valley:crab_cake_dough",
+            "required": false
+        },
+        {
+            "id": "valley:crab_cake",
             "required": false
         }
     ]

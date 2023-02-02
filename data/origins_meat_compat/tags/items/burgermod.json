@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "#burgermod:burgers",
+            "required": false
+        },
+        {
+            "id": "burgermod:hotdog",
+            "required": false
+        }
+    ]
+}

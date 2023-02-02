@@ -1,6 +1,8 @@
 {
     "replace": false,
     "values": [
-        "#origins_meat_compat:betternether"
+        "#origins_meat_compat:ignore_diet/betternether",
+        "#origins_meat_compat:ignore_diet/c",
+        "#origins_meat_compat:ignore_diet/valley"
     ]
 }

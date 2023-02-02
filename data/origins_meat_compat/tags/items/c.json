@@ -36,6 +36,106 @@
         {
             "id": "#c:cooked_fishes",
             "required": false
+        },
+        {
+            "id": "#c:glowing_calamari",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_anchovies",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_shrimp",
+            "required": false
+        },
+        {
+            "id": "#c:cooked_tuna",
+            "required": false
+        },
+        {
+            "id": "#c:ham_sandwiches",
+            "required": false
+        },
+        {
+            "id": "#c:tuna_sandwiches",
+            "required": false
+        },
+        {
+            "id": "#c:egg_rolls",
+            "required": false
+        },
+        {
+            "id": "#c:cabbage_rolls",
+            "required": false
+        },
+        {
+            "id": "#c:goulashes",
+            "required": false
+        },
+        {
+            "id": "#c:steamed_crabs",
+            "required": false
+        },
+        {
+            "id": "#c:deep_fried_shrimp",
+            "required": false
+        },
+        {
+            "id": "#c:tuna_rolls",
+            "required": false
+        },
+        {
+            "id": "#c:fried_calamari",
+            "required": false
+        },
+        {
+            "id": "#c:crab_legs",
+            "required": false
+        },
+        {
+            "id": "#c:steamed_clams",
+            "required": false
+        },
+        {
+            "id": "#c:grilled_oysters",
+            "required": false
+        },
+        {
+            "id": "#c:anchovy_pizzas",
+            "required": false
+        },
+        {
+            "id": "#c:croque_madame",
+            "required": false
+        },
+        {
+            "id": "#c:croque_monsieur",
+            "required": false
+        },
+        {
+            "id": "#c:fried_frog_legs",
+            "required": false
+        },
+        {
+            "id": "#c:frog_legs",
+            "required": false
+        },
+        {
+            "id": "#c:ground_pork",
+            "required": false
+        },
+        {
+            "id": "#c:sausages",
+            "required": false
+        },
+        {
+            "id": "#c:the_big_breakfast",
+            "required": false
+        },
+        {
+            "id": "#c:mollusks",
+            "required": false
         }
     ]
 }

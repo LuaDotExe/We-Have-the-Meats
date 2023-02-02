@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "valley:salt",
+            "required": false
+        },
+        {
+            "id": "valley:stuffed_onion",
+            "required": false
+        }
+    ]
+}
