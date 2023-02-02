@@ -6,6 +6,7 @@ For more details, head to my Discord server: https://discord.gg/QrGx3e2Mt9
 Currently offers support for the following mods:
 - Alaska Native Craft
 - Anthropophagy
+- Autovw's Burger Mod/Burger Mod Fabricated
 - Better Animals Plus
 - Better Nether
 - Chest Cavity
@@ -18,6 +19,7 @@ Currently offers support for the following mods:
 - Farmer's Delight
 - Farmer's Respite
 - Fish of Thieves
+- Food+
 - Golden Steak
 - KFA
 - Midas Hunger
