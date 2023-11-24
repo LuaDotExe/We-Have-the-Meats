@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "biomemakeover:raw_crab",
+            "required": false
+        },
+        {
+            "id": "biomemakeover:cooked_crab",
+            "required": false
+        },
+        {
+            "id": "biomemakeover:cooked_glowfish",
+            "required": false
+        },
+        {
+            "id": "biomemakeover:crab_chowder",
+            "required": false
+        }
+    ]
+}
