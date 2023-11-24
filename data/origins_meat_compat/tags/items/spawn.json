@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "spawn:escargot",
+            "required": false
+        },
+        {
+            "id": "spawn:tuna_sandwich",
+            "required": false
+        }
+    ]
+}
